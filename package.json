@@ -1,0 +1,15 @@
+{
+  "name": "quizethnus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://siddharthJoshi30.github.io/Online_quiz_edited",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
